@@ -66,9 +66,9 @@ public abstract class AbstractRegularPolygon
 - classes can implement >= 1 interfaces (no limit)
 
 
-#### Interfaces & Abstract members both provide compile-time checking to make sure contract is enforced
+##### Interfaces & Abstract members both provide compile-time checking to make sure contract is enforced
 
-## Abstract classes vs Interfaces
+## Summary 
 
 ### Abstract class
 
@@ -83,3 +83,18 @@ public abstract class AbstractRegularPolygon
 - a class may implement 1 or more interfaces
 - members automatically public
 - may only contain props, methods, events, and indexers
+
+## Best Practices
+
+### Program to a contract (interface) rather than a concrete class
+
+- when programming to a contract, the code using it won't know or care about the implementation details. 
+- only expose those methods, etc through your interface that an outsider would need to use. Otherwise, it can be in the class itself.
+- keep types as generic as possible in your interface so that you're code doesn't break on a change in another layer, by another dev, etc.
+
+### Change happens in code
+
+#### Concrete Classes - brittle/easily broken because of strong typing
+
+#### Interfaces - resilient, even more so if generics are used
+

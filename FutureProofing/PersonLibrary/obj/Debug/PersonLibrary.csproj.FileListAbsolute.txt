@@ -1,0 +1,6 @@
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\FutureProofing\PersonLibrary\bin\Debug\PersonLibrary.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\FutureProofing\PersonLibrary\bin\Debug\PersonLibrary.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\FutureProofing\PersonLibrary\obj\Debug\PersonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\FutureProofing\PersonLibrary\obj\Debug\PersonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\FutureProofing\PersonLibrary\obj\Debug\PersonLibrary.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\FutureProofing\PersonLibrary\obj\Debug\PersonLibrary.pdb
