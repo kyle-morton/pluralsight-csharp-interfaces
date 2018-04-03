@@ -1,5 +1,9 @@
 # C# interfaces
 
+__REM:__ Think of interfaces from another dev's perspective when writing them. I need methods A, B, C to do a task. 
+I don't need to know (nor do I care) that methods D, E, F are used in any of these processes. It's similar to permissions,
+just because something is there doesn't mean someone needs access to it.
+
 ## Abstract Classes
 
 - abstract classes may contain abstract members/methods.
@@ -92,9 +96,9 @@ public abstract class AbstractRegularPolygon
 - only expose those methods, etc through your interface that an outsider would need to use. Otherwise, it can be in the class itself.
 - keep types as generic as possible in your interface so that you're code doesn't break on a change in another layer, by another dev, etc.
 
-### Change happens in code
+## Change happens in code
 
-#### Concrete Classes - brittle/easily broken because of strong typing
+### Concrete Classes - brittle/easily broken because of strong typing
 
-#### Interfaces - resilient, even more so if generics are used
+### Interfaces - resilient, even more so if generics are used
 
