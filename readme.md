@@ -102,3 +102,38 @@ public abstract class AbstractRegularPolygon
 
 ### Interfaces - resilient, even more so if generics are used
 
+## Implementing interfaces in your repository
+
+- Allows you to use different repositories, but use same type (IRepository, etc). This can be very useful when switching the location of your data (SQL vs SQLite) or mocking when developing software.
+
+```
+    public static class RepositoryFactory
+    {
+        public static IPersonRepository GetRepository(RepositoryType type)
+        {
+            IPersonRepository repo = null;
+            switch(type)
+            {
+                case RepositoryType.Service:
+                    repo = new ServiceRepository();
+                    break;
+                case RepositoryType.CSV:
+                    repo = new CSVRepository();
+                    break;
+                case RepositoryType.SQL:
+                    repo = new SQLRepository();
+                    break;
+                default:
+                    throw new ArgumentException("Invalid repo type");
+            }
+            return repo;
+        }
+
+    }
+    public enum RepositoryType
+    {
+        Service,
+        CSV,
+        SQL
+    }
+```

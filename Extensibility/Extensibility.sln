@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRepository.Service", 
 		{5FE8AD75-B070-4A7F-9587-C40EE51BDD44} = {5FE8AD75-B070-4A7F-9587-C40EE51BDD44}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRepository.CSV", "PersonRepository.CSV\PersonRepository.CSV.csproj", "{22D242EB-8113-49E3-8CC9-03A41E3B185E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRepository.SQL", "PersonRepository.SQL\PersonRepository.SQL.csproj", "{003702D8-E922-4539-80D4-15AAB22FF29D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +44,14 @@ Global
 		{1DD9F0AF-47BC-4E85-9FDD-7E95A6EEC36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DD9F0AF-47BC-4E85-9FDD-7E95A6EEC36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DD9F0AF-47BC-4E85-9FDD-7E95A6EEC36B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D242EB-8113-49E3-8CC9-03A41E3B185E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D242EB-8113-49E3-8CC9-03A41E3B185E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D242EB-8113-49E3-8CC9-03A41E3B185E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D242EB-8113-49E3-8CC9-03A41E3B185E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{003702D8-E922-4539-80D4-15AAB22FF29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003702D8-E922-4539-80D4-15AAB22FF29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003702D8-E922-4539-80D4-15AAB22FF29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003702D8-E922-4539-80D4-15AAB22FF29D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

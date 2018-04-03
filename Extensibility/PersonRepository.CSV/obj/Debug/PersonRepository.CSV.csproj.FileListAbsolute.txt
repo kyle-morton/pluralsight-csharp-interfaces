@@ -1,0 +1,9 @@
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.CSV\bin\Debug\PersonRepository.CSV.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.CSV\bin\Debug\PersonRepository.CSV.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.CSV\bin\Debug\PersonRepository.Interface.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.CSV\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.csprojResolveAssemblyReference.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.csproj.CoreCompileInputs.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.csproj.CopyComplete
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.pdb

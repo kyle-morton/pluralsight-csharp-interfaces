@@ -21,3 +21,16 @@ C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People
 C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\obj\Debug\PeopleViewer.csproj.CopyComplete
 C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\obj\Debug\PeopleViewer.exe
 C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\obj\Debug\PeopleViewer.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\PersonRepository.CSV.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\PersonRepository.CSV.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\People.sdf
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\PersonRepository.SQL.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\EntityFramework.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\PersonRepository.SQL.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\PersonRepository.SQL.dll.config
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\EntityFramework.xml
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PeopleViewer\bin\Debug\EntityFramework.SqlServerCompact.xml
