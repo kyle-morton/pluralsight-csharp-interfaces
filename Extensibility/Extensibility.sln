@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleViewer", "PeopleViewer\PeopleViewer.csproj", "{EC6283B8-58C2-41FF-80C6-0C5C7A402541}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRepository.Interface", "PersonRepository.Interface\PersonRepository.Interface.csproj", "{07234EAC-B32F-4769-A4C5-83209A858829}"
@@ -10,6 +12,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{63EFAA00-EC9E-4969-B3A5-DE71AF74F746}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CF2108D5-4AF0-4D6D-A519-391B353A771E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRepository.Service", "PersonRepository.Service\PersonRepository.Service.csproj", "{1DD9F0AF-47BC-4E85-9FDD-7E95A6EEC36B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5FE8AD75-B070-4A7F-9587-C40EE51BDD44} = {5FE8AD75-B070-4A7F-9587-C40EE51BDD44}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +36,10 @@ Global
 		{5FE8AD75-B070-4A7F-9587-C40EE51BDD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FE8AD75-B070-4A7F-9587-C40EE51BDD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FE8AD75-B070-4A7F-9587-C40EE51BDD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD9F0AF-47BC-4E85-9FDD-7E95A6EEC36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD9F0AF-47BC-4E85-9FDD-7E95A6EEC36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD9F0AF-47BC-4E85-9FDD-7E95A6EEC36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD9F0AF-47BC-4E85-9FDD-7E95A6EEC36B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,5 +47,9 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{07234EAC-B32F-4769-A4C5-83209A858829} = {63EFAA00-EC9E-4969-B3A5-DE71AF74F746}
 		{5FE8AD75-B070-4A7F-9587-C40EE51BDD44} = {CF2108D5-4AF0-4D6D-A519-391B353A771E}
+		{1DD9F0AF-47BC-4E85-9FDD-7E95A6EEC36B} = {63EFAA00-EC9E-4969-B3A5-DE71AF74F746}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B7453D-1DDC-40BA-9535-39D83C4F5A7B}
 	EndGlobalSection
 EndGlobal

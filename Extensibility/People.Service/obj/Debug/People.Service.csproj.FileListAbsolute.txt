@@ -1,0 +1,10 @@
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People.Service\bin\People.Service.dll.config
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People.Service\bin\People.Service.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People.Service\bin\People.Service.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People.Service\bin\PersonRepository.Interface.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People.Service\bin\PersonRepository.Interface.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People.Service\obj\Debug\People.Service.csprojResolveAssemblyReference.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People.Service\obj\Debug\People.Service.csproj.CoreCompileInputs.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People.Service\obj\Debug\People.Service.csproj.CopyComplete
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People.Service\obj\Debug\People.Service.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\People.Service\obj\Debug\People.Service.pdb

@@ -1,6 +1,5 @@
 C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll
 C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.pdb
-C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csprojResolveAssemblyReference.cache
 C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csproj.CoreCompileInputs.cache
 C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
 C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb
