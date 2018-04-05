@@ -207,3 +207,27 @@ public abstract class AbstractRegularPolygon
 
 - interfaces may inherit from >= 1 interfaces
 
+- if an interface inherits from another which has the same method name as one of the original interface's methods, then the implementing class must use __explicit implemenation__ to implement both methods (see below).
+
+__IEnumerable< T > implements IEnumerable__
+- both have a GetEnumerator() method so implementing class must explicity implement one.
+
+```
+
+    public class EnumerableCatalog : IEnumerable<string>
+    {
+        public IEnumerator<string> GetEnumerator()
+        {
+            //our code 
+            return null;
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            //call class instances method implementation
+            return this.GetEnumerator();
+        }
+    }
+
+```
+
