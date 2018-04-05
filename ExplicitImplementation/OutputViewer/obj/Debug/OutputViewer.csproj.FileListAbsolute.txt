@@ -1,0 +1,10 @@
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.exe.config
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.exe
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\ExplicitImplementation\OutputViewer\bin\Debug\Library.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\ExplicitImplementation\OutputViewer\bin\Debug\Library.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\ExplicitImplementation\OutputViewer\obj\Debug\OutputViewer.csprojResolveAssemblyReference.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\ExplicitImplementation\OutputViewer\obj\Debug\OutputViewer.csproj.CoreCompileInputs.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\ExplicitImplementation\OutputViewer\obj\Debug\OutputViewer.csproj.CopyComplete
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\ExplicitImplementation\OutputViewer\obj\Debug\StandardImplementation.exe
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\ExplicitImplementation\OutputViewer\obj\Debug\StandardImplementation.pdb

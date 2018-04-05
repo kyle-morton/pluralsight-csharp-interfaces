@@ -98,9 +98,9 @@ public abstract class AbstractRegularPolygon
 
 ## Change happens in code
 
-### Concrete Classes - brittle/easily broken because of strong typing
+- __Concrete Classes__ - brittle/easily broken because of strong typing
 
-### Interfaces - resilient, even more so if generics are used
+- __Interfaces__ - resilient, even more so if generics are used
 
 ## Implementing interfaces in your repository
 
@@ -137,3 +137,73 @@ public abstract class AbstractRegularPolygon
         SQL
     }
 ```
+
+## Explicit Implementation 
+
+#### When to use?
+- when 2 interfaces have a method of same name/params, but different return
+
+```
+
+    public interface ISaveable
+    {
+        string Save();
+    }
+
+    public interface IVoidSavable
+    {
+        void Save();
+    }
+
+```
+
+- When a different implementation is needed when concentrete/interface methods called
+
+```
+
+    public interface ISaveable
+    {
+        string Save();
+    }
+
+    public interface IPersistable
+    {
+        string Save();
+    }
+
+    public class ExplicitCatalog : ISaveable, IPersistable
+    {
+        public string Save()
+        {
+            return "Catalog Save";
+        }
+
+        //explicit implementation -> only called when object is cast to ISavable type
+        string ISaveable.Save()
+        {
+            return "ISavable Save";
+        }
+
+        //explicit implementation -> only called when object is cast to IPersistable type
+        string IPersistable.Save()
+        {
+            return "IPersistable Save";
+        }
+    }
+
+    ExplicitCatalog explicitCatalog = new ExplicitCatalog();
+    ISaveable saveable = new ExplicitCatalog();
+    IPersistable persistable = new ExplicitCatalog();
+
+    Console.WriteLine("Explicit Implementation\n");
+    Console.WriteLine("Concrete Class:  {0}", explicitCatalog.Save()); //Catalog Save
+    Console.WriteLine("ISaveable:       {0}", saveable.Save()); //ISavable Save
+    Console.WriteLine("IPersistable:    {0}", persistable.Save()); //IPersistable Save
+    Console.WriteLine();
+
+```
+
+## Interface Inheritance
+
+- interfaces may inherit from >= 1 interfaces
+
