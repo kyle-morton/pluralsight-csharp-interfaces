@@ -231,3 +231,41 @@ __IEnumerable< T > implements IEnumerable__
 
 ```
 
+## Dynamic Loading 
+
+__REM:__ Code to an interface, not a concrete class!!!!
+
+- Using interfaces, you can create __even more__ useful factories by having them return interfaces, but removing their notion of concrete types. 
+- The factory pulls the fully-qualified type from a config file (appSettings, properties, etc), then instantiates it and returns it cast as the interface.
+- Using this technique, you're client or factory layer __doesn't need references to those layers containing data services, only the dlls for use w/ Activator()__
+
+```
+
+    //Factory
+
+    public static class RepositoryFactory
+    {
+        public static IPersonRepository GetRepository()
+        {
+            //get info from config about which repo to instantiate
+            string typeName = ConfigurationManager.AppSettings["RepositoryType"];
+
+            //get actual type, then create instance
+            Type repoType = Type.GetType(typeName);
+            object repoInstance = Activator.CreateInstance(repoType);
+
+            return repoInstance as IPersonRepository;
+        }
+    }
+
+    //App.config
+
+    <!-- Settings for Service Repository -->
+    <appSettings>
+        <add key="RepositoryType" value="PersonRepository.Service.ServiceRepository, 
+            PersonRepository.Service, Version=1.0.0.0, Culture=neutral"/>
+    </appSettings>
+
+
+```
+
