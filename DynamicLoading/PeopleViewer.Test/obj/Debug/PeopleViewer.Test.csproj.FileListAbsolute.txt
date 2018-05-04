@@ -1,0 +1,15 @@
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.dll.config
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.exe
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\bin\Debug\PersonRepository.Interface.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.exe.config
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.csprojResolveAssemblyReference.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.csproj.CoreCompileInputs.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.csproj.CopyComplete
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.csprojFakesResolveAssemblyReference.cache

@@ -59,6 +59,10 @@
       <Project>{d85fbe12-9358-47a4-89d1-3a291ff371d2}</Project>
       <Name>PeopleViewer.Layered</Name>
     </ProjectReference>
+    <ProjectReference Include="..\PersonRepository.Fake\PersonRepository.Fake.csproj">
+      <Project>{3fd8ed5e-9d9d-492d-896e-b8eb8bcca051}</Project>
+      <Name>PersonRepository.Fake</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PersonRepository.Interface\PersonRepository.Interface.csproj">
       <Project>{07234eac-b32f-4769-a4c5-83209a858829}</Project>
       <Name>PersonRepository.Interface</Name>
@@ -66,6 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <Fakes Include="Fakes\PersonRepository.Fake.fakes" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

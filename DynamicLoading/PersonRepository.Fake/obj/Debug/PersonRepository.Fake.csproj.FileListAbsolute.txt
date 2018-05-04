@@ -1,0 +1,9 @@
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\PersonRepository.Fake.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\PersonRepository.Fake.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\PersonRepository.Interface.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.csprojResolveAssemblyReference.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.csproj.CoreCompileInputs.cache
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.csproj.CopyComplete
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.dll
+C:\Users\MORTONM\source\repos\pluralsight-csharp-interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.pdb
